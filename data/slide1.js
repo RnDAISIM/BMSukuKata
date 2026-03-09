@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{10751F92-321E-4FEE-8BEF-B91638B09A0C}'];loadHandler&&loadHandler(0, '<div id="spr0_1a7975b9"><div id="spr1_1a7975b9" class="kern slide"><img id="img2_1a7975b9" src="data/img2.png" width="1280px" height="720px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_1a7975b9" class="kern slide"><div id="spr3_1a7975b9"><img id="img0_1a7975b9" src="data/img0.jpg" width="1280" height="720" alt="Blur blurry image of a classroom\
+\
+AI-generated content may be incorrect."/></div><div id="spr4_1a7975b9" style="left:107.416px;top:229.161px;"><div style="width:0px;"><span id="txt0_1a7975b9" data-width="1080.327881" style="left:9.6px;top:-70.484px;">Suku Kata</span></div></div><div id="spr5_1a7975b9" style="left:1046.17px;top:-14.498px;"><img id="img1_1a7975b9" src="data/img1.png" width="296" height="244" alt="A logo of a plant growing from a book\
+\
+AI-generated content may be incorrect." style="left:0.091px;top:-0.171px;"/></div></div></div>', '{"s":[]}');})();
